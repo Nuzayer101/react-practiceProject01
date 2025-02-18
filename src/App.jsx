@@ -34,7 +34,7 @@ const App = () => {
 
   return (
     <>
-      <div className="py-36">
+      <div className="p-5">
         <div className="mx-auto max-w-[1330px]">
           <h1 className="text-center font-bold text-4xl mb-4">Product List</h1>
 
